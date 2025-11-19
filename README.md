@@ -13,17 +13,22 @@ Technical Skills
 - **Frontend**: HTML, CSS, JavaScript.
 - **Backend**: c#
 - **Database**: SQL Server
+  
 ### Tools & Technologies
 - Version Control: Git, GitHub
 - IDEs: Visual Studio, VS Code
+  
 What I'm Currently Learning
 -i learning now about git,github,c#,sql server, database,etc...
 - i want to develop my skills in software programming.
 - i got acertificate in GIS system from omanbrodband company.
+  
  Projects
   one project in my education about FPGA iplementation of generalized code for computing CRC.
+  
  How to Reach Me
 - Email:widaadalhandasi@gmail.com
 - LinkedIn: https://www.linkedin.com/in/widaad-alhandasi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSssLzKmXSH2drLzLB5REEg%3D%3D 
- Fun Facts
+
+Fun Facts
 - drowing, reading novels and books,...etc. 
