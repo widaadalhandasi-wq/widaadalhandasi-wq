@@ -20,7 +20,7 @@ I'm a fresh graduate passionate about Electronics and Telecommunication Engineer
 - GIS system (Fiber Network mapping).
   
 ## :books: What I'm Currently Learning
--I learning now about git,github,c#,sql server, database,etc...
+-I learning now about git,github,c#,sql server, database.
 -I want to develop my skills in web development and software engineering.
 - I got acertificate in GIS system from omanbrodband company.
   ## :telescope: Projects
