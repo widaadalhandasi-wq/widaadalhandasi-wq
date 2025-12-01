@@ -20,19 +20,24 @@ I'm a fresh graduate passionate about Electronics and Telecommunication Engineer
 - GIS system (Fiber Network mapping).
   
 ## :books: What I'm Currently Learning
--I learning now about git,github,c#,sql server, database.
+-I learning now about git,github,c#,SQL server, database.
 
 -I want to develop my skills in web development and software engineering.
 
 -I got acertificate in GIS system from omanbrodband company.
   
   ## :telescope: Projects
-  -Graduation project about FPGA iplementation of generalized code for computing CRC.
+  -Graduation project in the University was about FPGA iplementation of generalized code for computing CRC.
   
 ## :mailbox: How to Reach Me
 - Email:widaadalhandasi@gmail.com
 - LinkedIn: https://www.linkedin.com/in/widaad-alhandasi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSssLzKmXSH2drLzLB5REEg%3D%3D 
 
 ## :seedling: Fun Facts
-- Passion on learning programming.
+- I collect notebooks I never write in.💫
+- I love learning phrases in new languages.⭐
+- I find peace in quiet spaces.🌍
+- I believe small habits change everything.💫
+- I adapt to new places quickly—just give me WiFi.😎
+- I talk to my computer when it crashes.😂
 
