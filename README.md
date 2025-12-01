@@ -27,7 +27,7 @@ I'm a fresh graduate passionate about Electronics and Telecommunication Engineer
 - I got acertificate in GIS system from omanbrodband company.
 
   ## :telescope: Projects
-  - FPGA iplementation of generalized code for computing CRC (GRADUATION PROJECT).
+- FPGA iplementation of generalized code for computing CRC (GRADUATION PROJECT).
   
 ## :mailbox: How to Reach Me
 - Email:widaadalhandasi@gmail.com
