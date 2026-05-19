@@ -10,8 +10,8 @@ I'm a fresh graduate passionate about Electronics and Telecommunication Engineer
 - **Familiar**: c and JavaScript programming.
 - **Learning**: C#
 ### Web Development
-- **Frontend**: HTML, CSS, JavaScript.
-- **Backend**: ASP.NET Core, Node.js and Django.
+- **Frontend**: HTML, CSS, JavaScript, Angular.
+- **Backend**: ASP.NET Core, Node.js and c#.
 - **Database**: SQL Server
 
 ### Tools & Technologies
