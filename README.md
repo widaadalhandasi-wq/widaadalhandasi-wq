@@ -4,7 +4,8 @@
 - **University**: university of technology and applied science.
 - **Graduation Year**: 2022
 ## :computer: About Me
-I'm a fresh graduate passionate about Electronics and Telecommunication Engineering . I recently completed my studies and I'm eager to apply my knowledge in real-world projects. I'm actively learning and building my skills in web development and software engineering. 
+Between Telecom Engineering 📡 + Full-Stack Passion 🚀
+My background in Electronics and Telecommunications taught me how data and systems work. Today, I use this logical mindset in Full-Stack Web Development. I love building friendly user interfaces and strong backend systems, and I always focus on writing clean and smart code.
 ## :hammer_and_wrench: Technical Skills
  Programming Languages
 - **Familiar**: c and JavaScript programming.
@@ -20,14 +21,36 @@ I'm a fresh graduate passionate about Electronics and Telecommunication Engineer
 - GIS system (Fiber Network mapping).
   
 ## :books: What I'm Currently Learning
-- I learning now about git,github,c#,SQL server, database.
+🎨 Frontend Development
+Web Technologies: Creating responsive and interactive user interfaces using HTML, CSS (Bootstrap), and JavaScript.
+Modern Frameworks: Developing structured and scalable single-page applications using Angular.
 
-- I want to develop my skills in web development and software engineering.
+⚙️ Backend & Database
+C# & .NET: Learning core programming concepts, Object-Oriented Programming (OOP), and clean code principles.
+SQL Server & Databases: Learning how to design databases, manage data, and write queries to connect backend logic with data.
 
-- I got acertificate in GIS system from omanbrodband company.
+Git & GitHub: Using version control to manage code, track changes, and collaborate effectively on projects.
+
+📜 Certifications & Extra Skills
+GIS System Certificate: Certified by Oman Broadband Company, gaining practical knowledge in Geographic Information Systems and spatial data analysis.
 
   ## :telescope: Projects
 - FPGA Iplementation Of Generalized Code For Computing CRC (GRADUATION PROJECT).
+  
+- 🏨 StayEase – Hotel Booking Application
+What it is: A modern web application for booking hotel rooms.
+Tech Stack: Built initially with vanilla JavaScript and later upgraded to Angular for advanced state management, styled with CSS/Bootstrap.
+
+-🍽️ Mealify – Restaurant Landing Page
+What it is: A responsive and professional landing page for a restaurant.
+Tech Stack: Developed using HTML and CSS (Bootstrap), featuring a pure CSS Dark Mode toggle using advanced selector logic.
+
+-🏦 Banking Management System
+What it is: A desktop application built to manage daily bank accounts, deposits, withdrawals, and transaction history.
+
+-🎓 Student Course Management System
+What it is: A database application to handle students, courses, and enrollments using full CRUD operations.
+Tech Stack: Built with C#, Entity Framework Core, LINQ, and SQL Server.
   
 ## :mailbox: How to Reach Me
 - Email:widaadalhandasi@gmail.com
