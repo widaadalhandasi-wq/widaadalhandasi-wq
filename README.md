@@ -4,8 +4,7 @@
 - **University**: university of technology and applied science.
 - **Graduation Year**: 2022
 ## :computer: About Me
-Between Telecom Engineering 📡 + Full-Stack Passion 🚀.
-
+Between Telecom Engineering 📡 + Full-Stack Passion 🚀
 My background in Electronics and Telecommunications taught me how data and systems work. Today, I use this logical mindset in Full-Stack Web Development. I love building friendly user interfaces and strong backend systems, and I always focus on writing clean and smart code.
 ## :hammer_and_wrench: Technical Skills
  Programming Languages
@@ -22,15 +21,15 @@ My background in Electronics and Telecommunications taught me how data and syste
 - GIS system (Fiber Network mapping).
   
 ## :books: What I'm Currently Learning
-🎨 Frontend Development:
+- 🎨 Frontend Development:
 Web Technologies: Creating responsive and interactive user interfaces using HTML, CSS (Bootstrap), and JavaScript.
 Modern Frameworks: Developing structured and scalable single-page applications using Angular.
-⚙️ Backend & Database:
+- ⚙️ Backend & Database:
 C# & .NET: Learning core programming concepts, Object-Oriented Programming (OOP), and clean code principles.
 SQL Server & Databases: Learning how to design databases, manage data, and write queries to connect backend logic with data.
-Git & GitHub: 
+- Git & GitHub: 
 Using version control to manage code, track changes, and collaborate effectively on projects.
-📜 Certifications & Extra Skills:
+- 📜 Certifications & Extra Skills:
 GIS System Certificate: Certified by Oman Broadband Company, gaining practical knowledge in Geographic Information Systems and spatial data analysis.
 
   ## :telescope: Projects
