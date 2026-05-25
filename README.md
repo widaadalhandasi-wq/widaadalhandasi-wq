@@ -4,16 +4,13 @@
 - **University**: university of technology and applied science.
 - **Graduation Year**: 2022
 ## :computer: About Me
-Between Telecom Engineering 📡 + Full-Stack Passion 🚀
+Between Telecom Engineering 📡 + Full-Stack Passion 🚀.
 My background in Electronics and Telecommunications taught me how data and systems work. Today, I use this logical mindset in Full-Stack Web Development. I love building friendly user interfaces and strong backend systems, and I always focus on writing clean and smart code.
 ## :hammer_and_wrench: Technical Skills
- Programming Languages
-- **Familiar**: c and JavaScript programming.
-- **Learning**: C#
 ### Web Development
 - **Frontend**: HTML, CSS, JavaScript, Angular.
 - **Backend**: ASP.NET Core, Node.js and c#.
-- **Database**: SQL Server
+- **Database**: C# and SQL Server.
 
 ### Tools & Technologies
 - Version Control: Git, GitHub.
